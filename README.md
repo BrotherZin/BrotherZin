@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <p align="center">
-  <img src="https://github.com/BrotherZin/BrotherZin/assets/104006894/bd803810-9a16-4274-9ff5-61329eb0b935">
+  <img src="https://github.com/BrotherZin/BrotherZin/assets/104006894/d122a2cd-aadf-491e-8da5-9c430881bd3b">
 </p>
 
 
