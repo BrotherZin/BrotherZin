@@ -71,6 +71,6 @@
   </a>
    <a href="mailto:hjan@infomail.co.kr">
     <img
-      src="https://img.shields.io/badge/ahj13k@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/ahj13k@gmail.com-D14836?style=for-the-badge&logo=company&logoColor=white"/>&nbsp
   </a>
 </div>
