@@ -97,7 +97,7 @@
 
   <a href="mailto:hjan@infomail.co.kr">
     <img
-      src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+      src="https://img.shields.io/badge/@brother_zin-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="height: 30px; margin-right: 5px;"/>
   </a>
 
   <a href="mailto:hjan@infomail.co.kr">
