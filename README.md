@@ -1,3 +1,7 @@
+<style> 
+.img{height: 30px; margin-right: 5px;}
+</style>
+
 <!--타이틀 부분-->
 <p align="center">
   <img src="https://github.com/BrotherZin/BrotherZin/assets/104006894/10fe3939-d33a-4c68-afca-76da1c48a144">
@@ -23,7 +27,10 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" style="height: 30px; margin-right: 5px;" />
+  
 </div>
+
+
 
 <br>
 
@@ -46,20 +53,23 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" style="height: 30px; margin-right: 5px;"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" style="height: 30px; margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  
 </div>
 
 <br>
 
 <h3 align="center">📫 OS 📫</h3>
 <div align="center">
- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" style="height: 30px; margin-right: 5px;"/>
 </div>
 
 <br>
