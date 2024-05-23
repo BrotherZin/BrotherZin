@@ -31,7 +31,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height: 30px; margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/ORACE-F80000?style=flat-square&logo=oracle&logoColor=white" style="height: 30px; margin-right: 5px;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql-80bfff&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 30px; margin-right: 5px;" />
+<!--   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql-80bfff&logoColor=white" style="height: 30px; margin-right: 5px;" /> -->
 </div>
 
 <br>
