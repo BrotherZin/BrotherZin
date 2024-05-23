@@ -27,15 +27,18 @@
 
 <br>
 
-<h3 align="center">📚 DataBase 📚</h3>
+<h3 align="center"> 💾 DataBase 💾</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height: 30px; margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/ORACE-F80000?style=flat-square&logo=oracle&logoColor=white" style="height: 30px; margin-right: 5px;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-80bfff?style=flat-square&logo=Java&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql-80bfff&logoColor=white" style="height: 30px; margin-right: 5px;" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white" style="height: 30px; margin-right: 5px;"/>
-  <img src="https://img.shields.io/badge/MSSQL-3766AB?style=flat-square&logo=Java&logoColor=white" style="height: 30px; margin-right: 5px;" />
-
-
+  <img src="https://img.shields.io/badge/MSSQL-3766AB?style=flat-square&logo=MSSQL&logoColor=white" style="height: 30px; margin-right: 5px;" />
 </div>
 
 <br>
@@ -54,7 +57,9 @@
 <br>
 
 <h3 align="center">📫 OS 📫</h3>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<div align="center">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp
+</div>
 
 <br>
 
