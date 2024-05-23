@@ -35,17 +35,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white" style="height: 30px; margin-right: 5px;"/>
-  <img src="https://img.shields.io/badge/MSSQL-3766AB?style=flat-square&logo=MSSQL&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" style="height: 30px; margin-right: 5px;" />
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"style="height: 30px; margin-right: 5px;" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" style="height: 30px; margin-right: 5px;"/>
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" style="height: 30px; margin-right: 5px;"/>
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" style="height: 30px; margin-right: 5px;" />
@@ -59,6 +54,11 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=black" style="height: 30px; margin-right: 5px;" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" style="height: 30px; margin-right: 5px;"/>
+</div>
 <br>
 
 <h3 align="center">🎛️ Operating System 🎛️</h3>
