@@ -51,7 +51,11 @@
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" style="height: 30px; margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" style="height: 30px; margin-right: 5px;" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=black" style="height: 30px; margin-right: 5px;" />
 </div>
 
 <br>
