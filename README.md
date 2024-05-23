@@ -1,5 +1,5 @@
 <style> 
-.img{height: 30px; margin-right: 5px;}
+img{height: 30px; margin-right: 5px;}
 </style>
 
 <!--타이틀 부분-->
