@@ -56,6 +56,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=black" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=black" style="height: 30px; margin-right: 5px;" />
 </div>
 
 <br>
