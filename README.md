@@ -83,7 +83,7 @@
   </a>
    <a href="mailto:hjan@infomail.co.kr">
     <img
-      src="https://img.shields.io/badge/hjan@infomail.co.kr-3399ff?style=for-the-badge&logo=company&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+      src="https://img.shields.io/badge/hjan@infomail.co.kr-3399ff?style=for-the-badge&logo=gmail&logoColor=white" style="height: 30px; margin-right: 5px;"/>
   </a>
 
   <a href="mailto:hjan@infomail.co.kr">
