@@ -1,6 +1,6 @@
 <!--배너 부분-->
 <p align="center">
-  <img src="https://github.com/BrotherZin/BrotherZin/assets/104006894/10fe3939-d33a-4c68-afca-76da1c48a144" style="height: 120%;">
+  <img src="https://github.com/BrotherZin/BrotherZin/assets/104006894/10fe3939-d33a-4c68-afca-76da1c48a144" style="height: 200px;">
 </p>
 
 
