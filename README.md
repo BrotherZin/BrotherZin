@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=black" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=black" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=black" style="height: 30px; margin-right: 5px;" />
 </div>
 
 <div align="center">
@@ -76,6 +77,23 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
+  <a href="mailto:ahj13k@naver.com">
+    <img
+      src="https://img.shields.io/badge/ahj13k@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  </a>
+  
+  <a href="mailto:ahj13k@gmail.com">
+    <img
+      src="https://img.shields.io/badge/ahj13k@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  </a>
+   <a href="mailto:hjan@infomail.co.kr">
+    <img
+      src="https://img.shields.io/badge/hjan@infomail.co.kr-3399ff?style=for-the-badge&logo=gmail&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  </a>
+
+</div>
+
+<div align="center">
 
   <a href="mailto:ahj13k@gmail.com">
     <img
@@ -96,9 +114,4 @@
       src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000" style="height: 30px; margin-right: 5px;"/>
   </a>
   
-  
-
-  
 </div>
-
-
