@@ -19,27 +19,23 @@
 </div> -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height: 30px; margin-right: 5px;"  />&nbsp
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="height: 30px; margin-right: 5px;" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height: 30px; margin-right: 5px;" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height: 30px; margin-right: 5px;"  />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" style="height: 30px; margin-right: 5px;" />
 </div>
 
 <br>
 
+<h3 align="center">📚 DataBase 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/ORACE-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>L&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/ORACE-F80000?style=flat-square&logo=oracle&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-80bfff?style=flat-square&logo=Java&logoColor=white" style="height: 30px; margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/MSSQL-3766AB?style=flat-square&logo=Java&logoColor=white" style="height: 30px; margin-right: 5px;" />
 
-<br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -52,17 +48,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+<h3 align="center">📫 OS 📫</h3>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 <br>
 
@@ -80,3 +72,5 @@
       src="https://img.shields.io/badge/hjan@infomail.co.kr-3399ff?style=for-the-badge&logo=company&logoColor=white"/>&nbsp
   </a>
 </div>
+
+
