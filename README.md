@@ -1,6 +1,6 @@
 <!--배너 부분-->
 <p align="center">
-  <img src="https://github.com/BrotherZin/BrotherZin/assets/104006894/10fe3939-d33a-4c68-afca-76da1c48a144">
+  <img src="https://github.com/BrotherZin/BrotherZin/assets/104006894/10fe3939-d33a-4c68-afca-76da1c48a144" style="height: 120%;">
 </p>
 
 
@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" style="height: 30px; margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" style="height: 30px; margin-right: 5px;"/>
 </div>
 
 <br>
@@ -50,7 +51,7 @@
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" style="height: 30px; margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" style="height: 30px; margin-right: 5px;" />
-  
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" style="height: 30px; margin-right: 5px;" />
 </div>
 
 <br>
@@ -59,7 +60,7 @@
 <div align="center">
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" style="height: 30px; margin-right: 5px;"/>
  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" style="height: 30px; margin-right: 5px;"/>
-<img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" style="height: 30px; margin-right: 5px;"/>
+ <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" style="height: 30px; margin-right: 5px;"/>
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height: 30px; margin-right: 5px;"/>
  
 </div>
