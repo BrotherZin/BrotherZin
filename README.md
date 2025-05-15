@@ -24,11 +24,10 @@
   
 </div>
 <div align="center">
-  //jstl
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" style="height: 30px; margin-right: 5px;" />
-  // vue
+
+  <img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=black" style="height: 30px; margin-right: 5px;" />
   <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="height: 30px; margin-right: 5px;"/>
-  // vuetify
+
 </div>
 <br>
 
