@@ -23,12 +23,7 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" style="height: 30px; margin-right: 5px;"/>
   
 </div>
-<div align="center">
 
-  <img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=black" style="height: 30px; margin-right: 5px;" />
-  <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="height: 30px; margin-right: 5px;"/>
-
-</div>
 <br>
 
 <h3 align="center"> 💾 DataBase 💾</h3>
@@ -49,7 +44,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" style="height: 30px; margin-right: 5px;" />
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" style="height: 30px; margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/VSCode-00A2FF?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" style="height: 30px; margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height: 30px; margin-right: 5px;"  />
  
 </div>
