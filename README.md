@@ -5,6 +5,11 @@
 
 
 <!--내용 부분-->
+<!-- 이미지 사용 방법 
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+로고 검색은 https://simpleicons.org/?q=studio 
+-->
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="height: 30px; margin-right: 5px;"  />
